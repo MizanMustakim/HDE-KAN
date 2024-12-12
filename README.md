@@ -1,4 +1,4 @@
-# HDE-KAN
+# DE-KAN
 
 We will release the update very soon.
 
